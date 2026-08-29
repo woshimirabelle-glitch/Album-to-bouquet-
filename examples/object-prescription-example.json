@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "field": "midnight blue and mineral blue",
+    "shadow": "ink black",
+    "neutral": "chalk white",
+    "signal": "butter yellow, under 6 percent"
+  },
+  "geometry": {
+    "silhouette": "vertical shield",
+    "paper_planes": 4,
+    "dominant_angle": "upper left to lower right with one counter-angle",
+    "core_density": "medium-compact"
+  },
+  "scale": {
+    "hero": "one oversized violet anemone and one white lily",
+    "support": "mineral-blue hydrangea and pale lilac lisianthus",
+    "micro_texture": "fine graphite foliage",
+    "gesture": "one brushed-silver branch extending above the core"
+  },
+  "material_effect": "brushed silver on one foliage family only",
+  "album_symbol": "a single thin wire orbit derived from the cover's circular light motif",
+  "wrapping": "four matte navy and ink-blue paper planes with a narrow chalk-white counter-plane",
+  "setting": "dark plinth",
+  "lighting": "directional side light from upper left with controlled specular highlights",
+  "explanation": "The blue field becomes the object's architecture, while one yellow signal preserves the album's moment of hope."
+}

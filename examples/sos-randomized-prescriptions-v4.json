@@ -1,0 +1,49 @@
+{
+  "source": "SOS album cover",
+  "fixed_album_identity": {
+    "field": "midnight navy and deep ocean blue",
+    "shadow": "near-black blue",
+    "neutral": "ivory sea foam and mist grey-blue",
+    "semantic_signal": "muted coral-orange under 5 percent",
+    "symbol": "one abstract horizontal silver line",
+    "mood": "expansive, isolated and quiet"
+  },
+  "variants": [
+    {
+      "name": "Architectural Object",
+      "size": "Mini Object",
+      "hero": "elongated smoky-cobalt gladiolus",
+      "wrapping": {
+        "backboard": "rigid midnight-navy plane with translucent mist-blue counter-planes",
+        "cradle": "deckled grey-blue handmade paper",
+        "binding": "flat soft-paper cuff"
+      },
+      "material_effect": "graphite foliage",
+      "camera": "upright studio on a dark stone plinth"
+    },
+    {
+      "name": "Living Sculpture",
+      "size": "Mini Object",
+      "hero": "pale blue-white calla lily",
+      "wrapping": {
+        "backboard": "narrow midnight-blue plane",
+        "cradle": "torn storm-grey mulberry-fibre paper",
+        "binding": "flat midnight raw-silk band with no knot"
+      },
+      "material_effect": "silvered dry foliage",
+      "camera": "quiet tabletop portrait"
+    },
+    {
+      "name": "Raw Couture",
+      "size": "Standard Handheld",
+      "hero": "oversized smoke-blue anthurium",
+      "wrapping": {
+        "backboard": "torn indigo mulberry-fibre board and translucent smoke-blue counter-plane",
+        "cradle": "open silver-grey botanical mesh",
+        "binding": "narrow frayed navy band with no bow"
+      },
+      "material_effect": "brushed-silver foliage",
+      "camera": "upright raw-studio portrait on a dark plinth"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Album to Bouquet"
+  short_description: "Turn one album cover into a botanically truthful gift bouquet."
+  brand_color: "#D8C9B8"
+  default_prompt: "Use $album-to-bouquet to turn my attached album cover into one vertical sendable bouquet, preserving real flower morphology, scale and tactile petal detail, finishing the handle in paper, and compositing the exact cover without a decorative frame."

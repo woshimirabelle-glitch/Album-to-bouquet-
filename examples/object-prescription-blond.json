@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "field": "paper white, chalk white and concrete grey",
+    "shadow": "espresso brown and graphite grey",
+    "neutral": "warm skin taupe",
+    "signal": "oxidised moss green at 4–6 percent"
+  },
+  "semantic_accent_evidence": "The green hair is small in pixel area but is the cover's most memorable chromatic signal.",
+  "geometry": {
+    "silhouette": "upright narrow offset oval / vertical shield",
+    "paper_planes": 4,
+    "dominant_angle": "vertical field with one counter-diagonal",
+    "core_density": "medium-compact"
+  },
+  "scale": {
+    "hero": "one oversized ivory calla lily and one large smoke-grey anthurium",
+    "support": "stone-grey hydrangea, warm-beige cymbidium orchid and chocolate cosmos",
+    "micro_texture": "dry taupe fern and espresso foliage",
+    "gesture": "one small moss-green celosia signal"
+  },
+  "material_effect": "graphite matte pigment on one dark foliage family only",
+  "album_symbol": "one flat smoked-vellum band partially concealing the lower floral core",
+  "wrapping": "four independent matte white, grey, taupe and espresso paper planes; no gathered cone",
+  "setting": "raw studio",
+  "lighting": "soft directional cool daylight from upper left",
+  "explanation": "The cover's quiet grey-white field becomes the architecture, while one moss-green signal preserves its most personal chromatic detail."
+}

@@ -1,0 +1,21 @@
+{
+  "palette": {
+    "dominant": ["midnight blue", "violet"],
+    "tonal_neighbours": ["mineral blue", "soft lilac"],
+    "neutral_bridge": "soft ivory",
+    "memory_accent": "butter yellow",
+    "shadow_tone": "ink blue"
+  },
+  "mood": ["cinematic", "romantic", "hopeful longing"],
+  "structure": "editorial-meadow",
+  "flowers": {
+    "hero": "violet anemone",
+    "support": ["ivory garden rose", "pale lilac lisianthus"],
+    "line": ["blue delphinium", "butter ranunculus"],
+    "texture": ["white feverfew", "smokebush"],
+    "album_note": "two small butter-yellow gestures"
+  },
+  "wrapping": "warm-white matte paper with a restrained violet inner layer",
+  "lighting": "soft directional daylight with an ink-blue background",
+  "explanation": "Midnight blues and violet carry the cinematic longing, while two butter-yellow gestures preserve the cover's moment of hope."
+}
